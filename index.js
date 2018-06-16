@@ -26,10 +26,4 @@ function sayHiToGrandma(string) {
     return "I love you, too."}
 }
 
-shout("hello")
-whisper("HELLO")
-logShout()
-logWhisper()
-sayHiToGrandma("HELLO")
-sayHiToGrandma("hello")
-sayHiToGrandma("I love you, Grandma.")
+
