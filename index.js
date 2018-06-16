@@ -18,3 +18,4 @@ logShout()
 logWhisper()
 shout('im shouting')
 whisper('im whispering')
+<br></br>
