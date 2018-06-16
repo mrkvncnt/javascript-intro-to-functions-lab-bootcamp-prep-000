@@ -20,7 +20,7 @@ function sayHiToGrandma(string) {
     return "YES INDEED!"}
 
   else if (string === string.toLowerCase()) {
-    return "I can't hear you"}
+    return "I can't hear you!"}
 
   else if ("I love you, Grandma.") {
     return "I love you, too."}
@@ -30,3 +30,6 @@ shout("hello")
 whisper("HELLO")
 logShout()
 logWhisper()
+sayHiToGrandma("HELLO")
+sayHiToGrandma("hello")
+sayHiToGrandma("I love you, Grandma.")
